@@ -3,6 +3,8 @@
 - Circle: S = πR²
 - Rectangle: S = ab
 - Square: S = a²
+- Trapezoid: S= ((a+b)/2)*h
+
 
 ## Perimeter
 - Circle: P = 2πR
